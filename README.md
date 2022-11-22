@@ -5,6 +5,6 @@
 ### 下面是演示图片
 ![image]( https://github.com/hnzxs/xiaosongQRfont/blob/main/QRtestpic.png)
 
-# -更新啦！支持6万多个字符了
+# -2022年11月18日 更新啦！支持6万多个字符了
 
 ### 欢迎下载体验
