@@ -4,4 +4,7 @@
 ### 字面信息隐藏后，可以通过扫描二维码逐字阅读，别有一番味道
 ### 下面是演示图片
 ![image]( https://github.com/hnzxs/xiaosongQRfont/blob/main/QRtestpic.png)
+
+# -更新啦！支持6万多个字符了
+
 ### 欢迎下载体验
